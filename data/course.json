@@ -1,0 +1,31 @@
+{
+  "term": "Spring",
+  "year": "2023",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "heading-test"
+  },
+  "course_image": {
+    "content": "",
+    "website": "heading-test"
+  },
+  "course_title": "heading-course",
+  "course_description": "",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "106",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "heading-test"
+  },
+  "learning_resource_types": [],
+  "site_uid": "1891387f-e2fa-473b-987e-b8ea123916f3",
+  "site_short_id": "heading-test-2023"
+}
